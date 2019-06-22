@@ -1,0 +1,6 @@
+.vscode/
+.history/
+.DS_Store
+*.class
+test.*
+__pycache__/

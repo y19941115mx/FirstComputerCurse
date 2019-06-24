@@ -1,5 +1,5 @@
 
-package app;
+package sort;
 import java.util.Random;
 
 public class QuickSort implements Sort {

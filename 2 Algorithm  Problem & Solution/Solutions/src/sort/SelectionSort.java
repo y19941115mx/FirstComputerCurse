@@ -1,5 +1,4 @@
-package app;
-
+package sort;
 
 /**
  * SelectionSort
